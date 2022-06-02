@@ -1,2 +1,2 @@
 # argument-minning
-Jupyter notebook for argument classification with NLP and Deep Ldearning
+Jupyter notebook for argument classification with NLP. machine learning and Deep Learning
